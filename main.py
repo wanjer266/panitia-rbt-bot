@@ -4,7 +4,7 @@ import requests
 from bs4 import BeautifulSoup
 
 # === TOKEN BOT TELEGRAM KAU DI SINI ===
-TOKEN = "MASUKKAN_TOKEN_BOT_KAU_SINI"
+TOKEN = "8334807197:AAFxJKaUZGU1puyz206TfGx3iLvm4-ohfzs"
 
 # === LINK GOOGLE DRIVE UTAMA ===
 MAIN_FOLDER = "https://drive.google.com/drive/folders/12clIWH8i-PT7IhyJIO7s7qIk6UZivU_H"
